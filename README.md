@@ -1,6 +1,6 @@
 # Worker Threads with NodeJS
 
-The Worker Threads module enables the use of threads that execute JavaScript in parallel. It's useful for performing CPU-intensive JavaScript operations. 
+The Worker Threads module enables the use of threads that execute JavaScript in parallel. It's useful for performing CPU-intensive JavaScript operations.
 
 ## Setup
 
@@ -19,7 +19,7 @@ yarn start or npm start
 
 The system is now ready to be used via the routes:
 
-**POST** [http://localhost:3000/calculate](http://localhost:3000/calculate)
+**GET** [http://localhost:3000/calculate](http://localhost:3000/calculate)
 
 Just send a empty request for these routes.
 
