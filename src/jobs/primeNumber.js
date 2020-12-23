@@ -11,9 +11,9 @@ const isPrime = (num) => {
   return false
 }
 
-console.log('Counting...')
 let quantityPrimeNumbers = 0
 let timeBefore = Date.now()
+
 for (let index = 1; index <= 100000; index++) {
   if (isPrime(index)) {
     quantityPrimeNumbers++
