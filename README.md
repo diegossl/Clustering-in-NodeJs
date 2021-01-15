@@ -2,7 +2,7 @@
 
 The Worker Threads module enables the use of threads that execute JavaScript in parallel. It's useful for performing CPU-intensive JavaScript operations.
 
-### Use
+## Use
 
 To execute the project, type the following command in the terminal:
 
